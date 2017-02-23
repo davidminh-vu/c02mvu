@@ -8,4 +8,8 @@ public class hallo {
 	public static void halloWelt (){
 		System.out.println("Hallo von Welt");
 	}
+	
+	public static void halloSami (){
+		System.out.println("Hallo von Salami");
+	}
 }
