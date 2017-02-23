@@ -10,6 +10,6 @@ public class hallo {
 	}
 	
 	public static void halloSami (){
-		System.out.println("Hallo von Salami");
+		System.out.println("Hallo von Sami");
 	}
 }
